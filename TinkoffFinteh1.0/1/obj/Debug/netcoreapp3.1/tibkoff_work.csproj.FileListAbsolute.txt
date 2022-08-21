@@ -1,0 +1,14 @@
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.exe
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.deps.json
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.runtimeconfig.json
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.runtimeconfig.dev.json
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.dll
+D:\Myself Works\TINKOFF\1\1\bin\Debug\netcoreapp3.1\tibkoff_work.pdb
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.csproj.AssemblyReference.cache
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.AssemblyInfoInputs.cache
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.AssemblyInfo.cs
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.csproj.CoreCompileInputs.cache
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.dll
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.pdb
+D:\Myself Works\TINKOFF\1\1\obj\Debug\netcoreapp3.1\tibkoff_work.genruntimeconfig.cache
